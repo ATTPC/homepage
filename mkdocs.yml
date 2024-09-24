@@ -1,0 +1,55 @@
+site_name: AT-TPC Documentation
+site_url: https://example.com/
+repo_url: https://github.com/ATTPC/homepage/
+site_description: Documentation for the AT-TPC Group and it's software
+site_author: Gordon McCann
+
+nav:
+  - Home: index.md
+  - Software:
+    - About: software/index.md
+    - Analysis: software/analysis.md
+    - Data Acquisition: software/acquisition.md
+    - Utilities: software/utilities.md
+  - Hardware:
+    - About: hardware/index.md
+    - AT-TPC: hardware/attpc.md
+    - GET: hardware/get.md
+    - Auxiliary Detectors: hardware/auxiliary.md
+    - Network: hardware/network.md
+  - FAQ: faq.md
+  - Contact: contact.md
+  - For Developers: CONTRIBUTING.md
+  - Contributors: contributors.md
+
+theme:
+  name: material
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
