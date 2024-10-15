@@ -21,6 +21,7 @@ nav:
   - Contact: contact.md
   - For Developers: CONTRIBUTING.md
   - Contributors: contributors.md
+  - Publications: publications.md
 
 theme:
   name: material
