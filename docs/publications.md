@@ -1,11 +1,11 @@
 # List of publications
 
 ## Thesis
-- The search for cluster structure in <sup>14</sup>C with the prototype AT-TPC, A. Fritsch, PhD Thesis (2014) [File](./literature/Fritsch_2014.pdf)
-- Development of THGEM-based detectors for AT-TPC applications, S. H. Rost, Master Thesis (2016) [File](./literature/Rost_2016.pdf)
-- Measurement of isobaric analogue resonances of <sup>47</sup>Ar with the Active Target Time Projection Chamber, J. Bradt, PhD Thesis (2017) [File](./literature/Bradt_2017.pdf)
-- Cluster structure and three-body decay in <sup>14</sup>C, L. M. Carpenter, PhD Thesis [File](./literature/Carpenter_2019.pdf)
-- Software tool for performing the calibration of the AT-TPC electronics channels, F. Ndayisabye, Master Thesis (2019) [File](./literature/Ndayisabye_2019.pdf)
+- The search for cluster structure in <sup>14</sup>C with the prototype AT-TPC, A. Fritsch, PhD Thesis (2014) [DOI Link](https://doi.org/doi:10.25335/97em-1550)
+- Development of THGEM-based detectors for AT-TPC applications, S. H. Rost, Master Thesis (2016) [MSU Link](https://d.lib.msu.edu/etd/4145?q=stefan%20rost)
+- Measurement of isobaric analogue resonances of <sup>47</sup>Ar with the Active Target Time Projection Chamber, J. Bradt, PhD Thesis (2017) [DOI Link](https://doi.org/doi:10.25335/ktpr-1k92)
+- Cluster structure and three-body decay in <sup>14</sup>C, L. M. Carpenter, PhD Thesis [DOI Link](https://doi.org/doi:10.25335/nqp5-et27)
+- Software tool for performing the calibration of the AT-TPC electronics channels, F. Ndayisabye, Master Thesis (2019) [DOI Link](https://doi.org/doi:10.25335/5s31-ad37)
 
 ## Technical papers
 - Test of a micromegas detector with helium-based gas mixtures for active target time projection chambers utilizing radioactive isotope beams, D. Suzuki et al., NIM A 660, 64 (2011) [DOI link](https://doi.org/10.1016/j.nima.2011.09.026)
