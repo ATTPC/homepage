@@ -4,16 +4,16 @@
 
 ### Facility for Rare Isotope Beams (FRIB) / Michigan State University (USA)
 
-Daniel Bazin: [Email](bazin@frib.msu.edu)
+Daniel Bazin: [Email](mailto:bazin@frib.msu.edu)
 
 ### University of Santiago de Compostela (Spain)
 
-Yassid Ayyad: [Email](yassid.ayyad@usc.es)
+Yassid Ayyad: [Email](mailto:yassid.ayyad@usc.es)
 
 ### Southern University of Science and Technology (China)
 
-Jie Chen: [Email](chenjie@sustech.edu.cn)
+Jie Chen: [Email](mailto:chenjie@sustech.edu.cn)
 
 ## Spyral support
 
-Gordon McCann: [Email](mccann@frib.msu.edu)
+Gordon McCann: [Email](mailto:mccann@frib.msu.edu)
