@@ -9,3 +9,4 @@ Below are some of the popular links:
 - [Frequently Asked Questions](./faq.md)
 - [Contributing to AT-TPC](./CONTRIBUTING.md)
 - [Contact the AT-TPC Group](./contact.md)
+- [List of publications](./publications.md)
