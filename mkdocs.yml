@@ -11,6 +11,7 @@ nav:
     - Analysis: software/analysis.md
     - Data Acquisition: software/acquisition.md
     - Utilities: software/utilities.md
+    - Analysis at Polaris: software/polaris.md
   - Hardware:
     - About: hardware/index.md
     - AT-TPC: hardware/attpc.md
