@@ -32,6 +32,7 @@
 - Direct Observation of Proton Emission in <sup>11</sup>Be, Y. Ayyad et al., Phys. Rev. Lett. 123, 082501 (2019) [DOI link](https://doi.org/10.1103/PhysRevLett.123.082501)
 - First Direct Measurement of <sup>22</sup>Mg⁢(𝛼,𝑝)⁢<sup>25</sup>Al and Implications for X-Ray Burst Model-Observation Comparisons, J. Randhawa et al., Phys. Rev. Lett. 125, 202701 (2020) [DOI link](https://doi.org/10.1103/PhysRevLett.125.202701)
 - 𝛽<sup>+</sup> Gamow-Teller Strengths from Unstable <sup>14</sup>O via the (𝑑,<sup>2</sup>He) Reaction in Inverse Kinematics, S. Giraud et al., Phys. Rev. Lett. 130, 232301 (2023) [DOI link](https://doi.org/10.1103/PhysRevLett.130.232301)
+- Near-Threshold Dipole Strength in <sup>10</sup>Be with Isoscalar Character, J. Chen et al., Phys. Rev. Lett. 134, 012502 (2025) [DOI link](https://doi.org/10.1103/PhysRevLett.134.012502)
 
 ## Review papers
 - Active targets for the study of nuclei far from stability, S. Beceiro-Novo et al., Prog. Part. Nucl. Phys. 84, 124 (2015) [DOI link](https://doi.org/10.1016/j.ppnp.2015.06.003)
